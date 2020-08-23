@@ -1,9 +1,8 @@
-/*
 fun <T> joinToString(
     collection: Collection<T>,
-    separator: String,
-    prefix: String,
-    postfix: String
+    separator: String = ", ",
+    prefix: String = "",
+    postfix: String = ""
 ): String {
     val result = StringBuilder(prefix)
     for ((index, element) in collection.withIndex()) {
@@ -12,4 +11,4 @@ fun <T> joinToString(
     }
     result.append(postfix)
     return result.toString()
-}*/
+}
