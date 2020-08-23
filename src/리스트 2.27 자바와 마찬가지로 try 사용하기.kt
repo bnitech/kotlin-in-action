@@ -1,3 +1,4 @@
+/*
 import java.io.BufferedReader
 
 fun readNumber(reader: BufferedReader): Int? {
@@ -9,4 +10,4 @@ fun readNumber(reader: BufferedReader): Int? {
     } finally {
         reader.close()
     }
-}
+}*/
