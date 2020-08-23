@@ -1,3 +1,4 @@
+/*
 fun eval(e: Expr): Int {
     if (e is Num) {
         val n = e as Num
@@ -7,4 +8,4 @@ fun eval(e: Expr): Int {
         return eval(e.right) + eval(e.left)
     }
     throw IllegalArgumentException("Unknown expression")
-}
+}*/

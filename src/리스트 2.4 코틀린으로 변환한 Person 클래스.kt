@@ -1,1 +1,2 @@
-class Person(val name: String)
+/*
+class Person(val name: String)*/
