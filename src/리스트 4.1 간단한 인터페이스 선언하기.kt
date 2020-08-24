@@ -1,3 +1,4 @@
+/*
 interface Clickable {
     fun click()
-}
+}*/
